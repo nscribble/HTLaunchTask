@@ -1,0 +1,6 @@
+framework module Pods_HTLaunchTask_Tests {
+  umbrella header "Pods-HTLaunchTask_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

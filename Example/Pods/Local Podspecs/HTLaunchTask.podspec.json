@@ -1,0 +1,22 @@
+{
+  "name": "HTLaunchTask",
+  "version": "0.1.0",
+  "summary": "A short description of HTLaunchTask.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jason/HTLaunchTask",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jason": "hashell07@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jason/HTLaunchTask.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HTLaunchTask/Classes/**/*"
+}

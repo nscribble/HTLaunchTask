@@ -1,0 +1,16 @@
+PODS:
+  - HTLaunchTask (0.1.0)
+
+DEPENDENCIES:
+  - HTLaunchTask (from `../`)
+
+EXTERNAL SOURCES:
+  HTLaunchTask:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTLaunchTask: 5fbfb883b7d10c491f566e636be53b25204a693a
+
+PODFILE CHECKSUM: 65bf6bdc778e169982630dba74b2dd64cf38e004
+
+COCOAPODS: 1.11.3

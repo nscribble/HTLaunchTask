@@ -1,0 +1,6 @@
+framework module HTLaunchTask {
+  umbrella header "HTLaunchTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
